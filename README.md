@@ -1,2 +1,2 @@
 # icons
- all icons who you need
+ all icon who you need
